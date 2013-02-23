@@ -3,8 +3,9 @@
 Standards and best practices guides for in-house development.
 
 Author:  
-Ryan Tulino  
-<http://www.inverseparadox.com/>
+<!--
+### [Inverse Paradox, LLC][ip-llc]
+-->
 
 ## JavaScript:
 
@@ -17,3 +18,5 @@ etc
 ## PHP:
 
 etc
+
+[ip-llc]: http://www.inverseparadox.com/
