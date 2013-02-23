@@ -2,7 +2,6 @@
 
 Standards and best practices guides for in-house development.
 
-Author:  
 ### [Inverse Paradox, LLC][ip-llc]
 
 
