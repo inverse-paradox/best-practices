@@ -3,7 +3,7 @@
 Standards and best practices guides for in-house development.
 
 Author:  
-Ryan Tulino
+Ryan Tulino  
 <http://www.inverseparadox.com/>
 
 ## JavaScript:
