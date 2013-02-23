@@ -4,29 +4,17 @@ Standards and best practices guides for in-house development.
 
 Author:  
 Ryan Tulino
+
 <http://www.inverseparadox.com/>
 
 ## JavaScript:
 
-### [Common JavaScript "Gotchas"][javascript-gotchas]
-
-### [JavaScript Coding Standards and Best Practices Guide][javascript-best-practices]
-
-<!--
-### [JavaScript Style Guide][javascript-style-guide]
--->
+etc
 
 ## CSS:
 
-<!--
-### [Common CSS "Gotchas"][css-gotchas]
--->
+etc
 
-### [CSS Coding Standards and Best Practices Guide][css-best-practices]
+## PHP:
 
-<!--
-### [CSS Style Guide][css-style-guide]
--->
-
-<!-- My CSS documentation -->
-[css-gotchas]: https://github.com/stevekwan/best-practices/blob/master/css/gotchas.md
+etc
