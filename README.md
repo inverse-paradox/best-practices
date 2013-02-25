@@ -5,26 +5,32 @@ Guides for development within various languages, frameworks, and architectures.
 
 ## HTML:
 
-etc
+[HTML Tags and Structure][html-start]
 
 ## CSS:
 
-etc
+[Naming Conventions][css-start]
 
 ## PHP:
 
-etc
+[PHP Pro-Tips][php-start]
 
 ## JavaScript:
 
-etc
+[Do's and Don'ts of JavaScript][js-start]
 
 ## WordPress:
 
-etc
+[Setup and Installation of WordPress and Boilerplate][wp-start]
 
 ## Magento:
 
-etc
+[Setup and Installation of Magento and Boilerplate][mage-start]
 
 [ip]: http://www.inverseparadox.com/
+[css-start]: https://github.com/inverse-paradox/best-practices/blob/master/Css/naming-conventions.md
+[html-start]: https://github.com/inverse-paradox/best-practices/blob/master/Html/tags-and-structure.md
+[js-start]: https://github.com/inverse-paradox/best-practices/blob/master/JavaScript/dos-and-donts.md
+[mage-start]: https://github.com/inverse-paradox/best-practices/blob/master/Magento/basic-setup.md
+[wp-start]: https://github.com/inverse-paradox/best-practices/blob/master/WordPress/basic-setup.md
+[php-start]: https://github.com/inverse-paradox/best-practices/blob/master/PHP/pro-tips.md

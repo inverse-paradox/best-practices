@@ -1,1 +1,1 @@
-# WordPress Setup and Installation
+# Setup and Installation of WordPress and Boilerplate
