@@ -1,11 +1,9 @@
-# Inverse Paradox Coding Standards and Best Practices
+# [Inverse Paradox][ip] Coding Standards and Best Practices
 
-Standards and best practices guides for in-house development.
-
-### [Inverse Paradox, LLC][ip-llc]
+Standards and best practice guides for development within various languages, frameworks, and architectures.
 
 
-## JavaScript:
+## HTML:
 
 etc
 
@@ -17,4 +15,16 @@ etc
 
 etc
 
-[ip-llc]: http://www.inverseparadox.com/
+## JavaScript:
+
+etc
+
+## WordPress:
+
+etc
+
+## Magento:
+
+etc
+
+[ip]: http://www.inverseparadox.com/
