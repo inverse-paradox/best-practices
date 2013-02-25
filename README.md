@@ -1,6 +1,6 @@
 # [Inverse Paradox][ip] Coding Standards and Best Practices
 
-Standards and best practice guides for development within various languages, frameworks, and architectures.
+Guides for development within various languages, frameworks, and architectures.
 
 
 ## HTML:
