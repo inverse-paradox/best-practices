@@ -4,36 +4,36 @@ Guides for development within various languages, frameworks, and architectures.
 
 ## File Management
 
-[Files on the Websites Drive][websites-drive]
+*   [Files on the Websites Drive][websites-drive]
 
 ## HTML:
 
-[HTML Tags and Structure][html-start]
+*   [HTML Tags and Structure][html-start]
 
 ## CSS:
 
-[Naming Conventions][css-start]
-[Advanced Properties][css-prop]
-[Preprocessor][css-sass]
+*   [Naming Conventions][css-start]
+*   [Advanced Properties][css-prop]
+*   [Preprocessor][css-sass]
 
 ## Fonts:
-[Fonts][fonts]
+*   [Fonts][fonts]
 
 ## PHP:
 
-[PHP Pro-Tips][php-start]
+*   [PHP Pro-Tips][php-start]
 
 ## JavaScript:
 
-[Do's and Don'ts of JavaScript][js-start]
+*   [Do's and Don'ts of JavaScript][js-start]
 
 ## WordPress:
 
-[Setup and Installation of WordPress and Boilerplate][wp-start]
+*   [Setup and Installation of WordPress and Boilerplate][wp-start]
 
 ## Magento:
 
-[Setup and Installation of Magento and Boilerplate][mage-start]
+*   [Setup and Installation of Magento and Boilerplate][mage-start]
 
 [ip]: http://www.inverseparadox.com/
 [websites-drive]: https://github.com/inverse-paradox/best-practices/blob/master/FileManagement/websites-drive.md
